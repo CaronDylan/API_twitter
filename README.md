@@ -1,4 +1,4 @@
-# API_twitter
+# Projet d'application web avec Google App Engine : Mini-Twitter
 Par BOUTIN Loïc, AUFFRAY Baptiste, PINEL Félix et CARON Dylan
 
 Lien de l'application : http://1-dot-minitwitti.appspot.com/home.jsp
